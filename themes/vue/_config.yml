@@ -1,0 +1,231 @@
+site_description: Vue.js - The Progressive JavaScript Framework
+google_analytics: UA-46852172-1
+root_domain: vuejs.org
+vue_version: 2.7.14
+# START SPONSORS
+special:
+  - name: appwrite
+    url: https://appwrite.io
+    img: appwrite.svg
+    description: Build Fast. Scale Big. All in One Place.
+platinum:
+  - name: VueMastery
+    url: https://www.vuemastery.com/
+    img: vuemastery.png
+  - name: VueSchool
+    url: >-
+      https://vueschool.io/?utm_source=Vuejs.org&utm_medium=Banner&utm_campaign=Sponsored%20Banner&utm_content=V1
+    img: vueschool.png
+  - name: Vehikl
+    url: https://vehikl.com/
+    img: vehikl.png
+  - name: Passionate People
+    url: https://passionatepeople.io/
+    img: passionate_people.png
+  - name: Storyblok
+    url: https://www.storyblok.com
+    img: storyblok.png
+  - name: Ionic
+    url: >-
+      https://ionicframework.com/vue?utm_source=partner&utm_medium=referral&utm_campaign=vuesponsorship&utm_content=vuedocs
+    img: ionic.png?v2
+  - name: CodeDict
+    url: https://code-dict.com
+    img: codedict.svg
+  - name: Chrome Frameworks Fund
+    url: https://opencollective.com/2021-frameworks-fund
+    img: chrome_frameworks_fund.png
+  - name: HeroDevs
+    url: https://www.herodevs.com/support/vue
+    img: herodevs.png
+gold:
+  - name: Volta
+    url: https://volta.net/?utm_source=vuejs.org&utm_campaign=sponsoring/
+    img: volta.svg
+  - name: Laravel
+    url: https://laravel.com
+    img: laravel.png
+  - name: Tidelift
+    url: https://tidelift.com/subscription/npm/vue
+    img: tidelift.png
+  - name: Intygrate
+    url: https://intygrate.com/
+    img: intygrate.png
+  - name: Bacancy Technology
+    url: https://www.bacancytechnology.com/hire-vuejs-developer
+    img: bacancy_technology.png
+  - name: Y8
+    url: https://www.y8.com/
+    img: y8.png
+  - name: DevExpress
+    url: https://js.devexpress.com/
+    img: devexpress.png
+  - name: FASTCODING Inc
+    url: 'https://fastcoding.jp/javascript/ '
+    img: fastcoding_inc.svg
+  - name: LINE Corporation
+    url: https://linecorp.com
+    img: line_corporation.png
+  - name: EMQ
+    url: https://www.emqx.com
+    img: emq.png
+  - name: Fenêtre Online Solutions
+    url: https://www.fenetre.nl/
+    img: fen_tre_online_solutions.svg
+  - name: Ant Design Vue
+    url: https://antdv.com
+    img: ant_design_vue.png
+  - name: MQTT X
+    url: https://mqttx.app
+    img: mqtt_x.png
+  - name: Crisp
+    url: https://crisp.chat/en/
+    img: crisp.png
+  - name: Localazy
+    url: >-
+      https://localazy.com/blog/how-to-localize-vuejs-app-with-vue-i18n-and-localazy?utm_source=vuejs&utm_medium=banner&utm_campaign=sponsorships_vuejs&utm_content=logo
+    img: localazy.svg
+  - name: LearnVue
+    url: https://learnvue.co
+    img: learnvue.png
+  - name: Casinoburst.com
+    url: https://casinoburst.com/casino-utan-licens/
+    img: casinoburst_com.png
+  - name: 'Enkrypt: Ethereum and Polkadot Web3 Wallet'
+    url: https://www.enkrypt.com
+    img: enkrypt__ethereum_and_polkadot_web3_wallet.svg
+  - name: uudetkasinot.com
+    url: https://www.uudetkasinot.com
+    img: uudetkasinot_com.png
+  - name: Fathom Analytics
+    url: https://usefathom.com/
+    img: fathom_analytics.svg
+  - name: Goread.io
+    url: https://goread.io/buy-instagram-followers
+    img: goread_io.png
+  - name: Sentry
+    url: https://sentry.io/for/vue?utm_source=vuejs.org&utm_medium=paid-community
+    img: sentry.png
+  - name: Justanotherpanel
+    url: https://justanotherpanel.com/
+    img: justanotherpanel.png
+  - name: Howsociable
+    url: https://howsociable.com/buy-instagram-followers/
+    img: howsociable.png
+  - name: Poprey.com
+    url: https://poprey.com/
+    img: poprey_com.png
+  - name: Ilmaiset Pitkävetovihjeet
+    url: https://www.vedonlyontibonukset.com/pitkavetovihjeet
+    img: ilmaiset_pitk_vetovihjeet.png
+  - name: Metoree
+    url: https://us.metoree.com/
+    img: metoree.png
+  - name: Famoid
+    url: https://famoid.com/
+    img: famoid.png
+  - name: Certible
+    url: https://www.certible.com
+    img: certible.svg
+  - name: FORTUNE GAMES
+    url: https://www.fortunegames.com
+    img: fortune_games.png
+  - name: Zammad GmbH
+    url: https://zammad.com
+    img: zammad_gmbh.png
+  - name: TBDC - Agro Software
+    url: http://tbdc.com.br/
+    img: tbdc___agro_software.svg
+  - name: Nokori
+    url: >-
+      https://nokori.com?utm_source=github&utm_medium=banner&utm_campaign=awareness&utm_id=github_vue
+    img: nokori.png
+silver:
+  - name: Draxlr
+    url: https://www.draxlr.com
+    img: draxlr.svg
+  - name: Team Extension North America Inc
+    url: https://teamextension.io
+    img: team_extension_north_america_inc.png
+  - name: Free Bets US
+    url: https://freebets.us
+    img: free_bets_us.png
+  - name: Doximity
+    url: https://technology.doximity.com/
+    img: doximity.png
+  - name: Interflora Group
+    url: https://www.interflora.fr
+    img: interflora_group.png
+  - name: Codesmith
+    url: https://codesmith.io
+    img: codesmith.png
+  - name: Optimizers
+    url: https://www.optimizers.nl
+    img: optimizers.png
+  - name: Nettcasino
+    url: https://www.nettcasino.com/
+    img: nettcasino.png
+  - name: FORTUNE GAMES
+    url: https://www.fortunegames.com
+    img: fortune_games.png
+bronze:
+  - name: Derek Pollard
+    url: https://polyglotengineer.com/derek.pollard
+    img: derek_pollard.png
+  - name: BGASoft
+    url: https://www.bgasoft.com
+    img: bgasoft.png
+  - name: RStudio
+    url: https://rstudio.com
+    img: rstudio.png
+  - name: Darkhorse Analytics
+    url: https://www.darkhorseanalytics.com/
+    img: darkhorse_analytics.png
+  - name: vuejs.de - German Vue Community
+    url: https://vuejs.de
+    img: vuejs_de___german_vue_community.svg
+  - name: Liip AG
+    url: https://www.liip.ch/en
+    img: liip_ag.png
+  - name: Bürkert Werke GmbH & Co KG
+    url: https://www.burkert.com
+    img: b_rkert_werke_gmbh___co_kg.png
+  - name: KingBilly
+    url: http://kingbilly.com/en-CA
+    img: kingbilly.png
+  - name: CRECOHE
+    url: http://www.crecohe.com
+    img: crecohe.png
+# END SPONSORS
+redirects:
+  '/v2/api/index.html': '/api/'
+  '/v2/guide/index.html': '/guide/introduction.html'
+  '/v2/guide/installation.html': '/guide/quick-start.html'
+  '/v2/guide/instance.html': '/guide/essentials/application.html' # has page redirects
+  '/v2/guide/syntax.html': '/guide/essentials/template-syntax.html'
+  '/v2/guide/computed.html': '/guide/essentials/computed.html' # has page redirects
+  '/v2/guide/class-and-style.html': '/guide/essentials/class-and-style.html'
+  '/v2/guide/conditional.html': '/guide/essentials/conditional.html'
+  '/v2/guide/list.html': '/guide/essentials/list.html'
+  '/v2/guide/events.html': '/guide/essentials/event-handling.html'
+  '/v2/guide/forms.html': '/guide/essentials/forms.html'
+  '/v2/guide/components.html': '/guide/essentials/component-basics.html'
+  '/v2/guide/components-registration.html': '/guide/components/registration.html'
+  '/v2/guide/components-props.html': '/guide/components/props.html' # has page redirects
+  '/v2/guide/components-custom-events.html': '/guide/components/events.html'
+  '/v2/guide/components-slots.html': '/guide/components/slots.html'
+  '/v2/guide/components-dynamic-async.html': '/guide/built-ins/keep-alive.html' # has page redirects
+  '/v2/guide/transitions.html': '/guide/built-ins/transition.html' # has page redirects
+  '/v2/guide/transitioning-state.html': '/guide/extras/animation.html'
+  '/v2/guide/custom-directive.html': '/guide/reusability/custom-directives.html'
+  '/v2/guide/render-function.html': '/guide/extras/render-function.html'
+  '/v2/guide/plugins.html': '/guide/reusability/plugins.html'
+  '/v2/guide/single-file-components.html': '/guide/scaling-up/sfc.html'
+  '/v2/guide/testing.html': '/guide/scaling-up/testing.html'
+  '/v2/guide/typescript.html': '/guide/typescript/overview.html'
+  '/v2/guide/deployment.html': '/guide/best-practices/production-deployment.html'
+  '/v2/guide/routing.html': '/guide/scaling-up/routing.html'
+  '/v2/guide/state-management.html': '/guide/scaling-up/state-management.html'
+  '/v2/guide/ssr.html': '/guide/scaling-up/ssr.html'
+  '/v2/guide/security.html': '/guide/best-practices/security.html'
+  '/v2/guide/reactivity.html': '/guide/extras/reactivity-in-depth.html'

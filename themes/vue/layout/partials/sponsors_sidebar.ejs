@@ -1,0 +1,19 @@
+<% function logo(img) { return `https://sponsors.vuejs.org/images/${img}` } %>
+
+<%_ if (theme.special) { _%>
+<div id="sidebar-sponsors-special">
+  <div class="main-sponsor">
+    <span>Special Sponsor</span>
+    <div>
+    <%_ for (const sponsor of theme.special) {_%>
+    <a href="<%- sponsor.url %>" target="_blank" rel="sponsored noopener" class="logo">
+      <img src="<%- logo(sponsor.img) %>" alt="<%-sponsor.name-%>">
+    </a>
+    <%_ } _%>
+    </div>
+  </div>
+</div>
+<%_ } _%>
+<%_ if (!page.sponsors && !page.partners) { _%>
+<%- partial('partials/platinum_sponsors', { context: 'left' }) %>
+<%_ } _%>

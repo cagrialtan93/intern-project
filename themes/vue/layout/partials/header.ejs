@@ -1,0 +1,20 @@
+<div>
+  <div id="v3-banner">
+    <span class="hidden-sm">You’re browsing Vue 2 docs. Go to </span>
+    <a href="https://vuejs.org/">Vue 3 docs</a>
+    <span class="hidden-sm">, or learn more about</span><span class="only-sm"> | </span>
+    <a href="/v2/guide/migration-vue-2-7.html">Vue 2.7</a>
+    <span class="hidden-sm">and</span><span class="only-sm"> | </span>
+    <a href="/lts/">Extended LTS</a><span class="hidden-sm">.</span>
+  </div>
+
+  <header id="header">
+    <a id="logo" href="<%- url_for("/") %>">
+      <img src="<%- url_for("/images/logo.svg") %>" alt="Vue logo">
+      <span>Vue.js</span>
+    </a>
+    <ul id="nav">
+      <%- partial('partials/main_menu', { context: 'nav' }) %>
+    </ul>
+  </header>
+</div>
