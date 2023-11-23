@@ -7,3 +7,9 @@ public/
 .deploy*/
 src/_drafts
 package-lock.json
+ssl
+yarn.lock
+src/v2/guide/installation.md
+themes/vue/_config.yml
+themes/vue/source/js/vue.js
+themes/vue/source/js/vue.min.js
