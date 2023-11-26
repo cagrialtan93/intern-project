@@ -1,13 +1,15 @@
 version: '3'
 services:
-  vue-app:
+  # first service for application
+  intern-app:
     build:
       context: .
       dockerfile: Dockerfile
       target: build-stage
-    image: my-vue-app
-    container_name: vue-app
-
+    image: intern-app # application image name
+    container_name: inter-app-docker-container # application container name
+    
+  # second service for nginx server
   nginx-server:
     build: 
       context: .
@@ -15,3 +17,6 @@ services:
       target: production-stage
     ports:
       - "443:443"
+    image: intern-server-docker-image # server image name
+    container_name: intern-server-docker-container # server container name
+ 
