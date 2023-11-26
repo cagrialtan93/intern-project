@@ -10,7 +10,7 @@ TODO
 ## Usage
 1. Clone the repository
 ```sh
-  git clone <repository-link>
+  git clone <https://github.com/cagrialtan93/intern-project.git>
   ```
 2. Change your current directory to the project folder
 ```sh
