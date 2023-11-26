@@ -1,9 +1,15 @@
 # application build stage
 FROM node:lts as build-stage
+# set the working directory
 WORKDIR /app
 COPY package*.json ./
+
+# install dependencies based on .json file
 RUN npm install
+
+# copy entire content under app folder
 COPY . . 
+
 RUN npm run build
 
 # nginx build stage
