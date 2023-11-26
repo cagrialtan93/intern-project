@@ -7,7 +7,7 @@ public/
 .deploy*/
 src/_drafts
 package-lock.json
-ssl
+ssl/*
 yarn.lock
 src/v2/guide/installation.md
 themes/vue/_config.yml

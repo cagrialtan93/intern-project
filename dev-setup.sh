@@ -1,5 +1,6 @@
 #!bin/bash
 
-# npm run build
+# openssl req -newkey rsa:4096 -x509 -sha256 -days 365 -nodes -out nginx.crt -keyout nginx.key
 
-# req -x509 -sha256 -nodes -days 365 -newkey rsa:2048 -keyout ssl/nginx.key -out ssl/nginx.crt
+
+
