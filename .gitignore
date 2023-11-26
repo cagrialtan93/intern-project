@@ -8,6 +8,7 @@ public/
 src/_drafts
 package-lock.json
 ssl/*
+!ssl/.gitkeep
 yarn.lock
 src/v2/guide/installation.md
 themes/vue/_config.yml
