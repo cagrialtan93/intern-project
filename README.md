@@ -1,20 +1,21 @@
 # Intern Project
 ## Description
-TODO
+This project is about deployment of Vuejs Documentation Page using Nginx and Docker.
 
 ## Prerequisites
-* Docker
-* Nodejs
-* Nginx
+Must have tools:
+* Docker: [Install Docker](https://docs.docker.com/engine/install/)
+* Nodejs: [Install Nodejs](https://nodejs.org/en/download/package-manager#debian-and-ubuntu-based-linux-distributions)
+* Nginx: [Install Nginx](https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview) 
 
 ## Usage
 1. Clone the repository
 ```sh
   git clone <https://github.com/cagrialtan93/intern-project.git>
   ```
-2. Change your current directory to the project folder
+2. Locate the project folder and change your current directory to the project folder
 ```sh
-  cd <project-folder-name>
+  cd <intern-project>
 ```
 3. Grant the necessary permissions to execute the script file
 ```sh
